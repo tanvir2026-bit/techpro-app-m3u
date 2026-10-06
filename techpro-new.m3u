@@ -1,43 +1,10 @@
 #EXTM3U
-made by rafiul
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",9XM MUSIC
-http://198.195.239.50:8095/9xm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",9XM.MUSIC
-http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",A.SPORTS.HD
-http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ALJAZEERA.HD
-http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",AND.PRIVE.HD
-http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ANIMAL PLANET HD
-http://198.195.239.50:8095/animalPlanet/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ANIMAL.PLANET.HD
-http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ANT.PICTURS.HD
-http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ATN.BANGLA.HD
 http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ATN.NEWS.HD
 http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",AXN.HD
-http://198.195.239.50:8095/AXN.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",BBC.Earth.HD
-http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",BBC.NEWS
-http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",BOISAKHI.TV.HD
 http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
@@ -48,41 +15,18 @@ http://198.195.239.50:8095/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",BTV.HD
 http://198.195.239.50:8095/BTV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",CARTON.NETWORK.HD
-http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",CARTOON NETWORK HD
-http://198.195.239.50:8095/cartoonNetwork/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",CHANNEL.24.HD
 http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",CHANNEL.I.HD
 http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLOR BANGLA CHINEMA HD
-http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLOR BANGLA HD
-http://198.195.239.50:8095/colorsBangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLOR CINEPLEX HD
-http://198.195.239.50:8095/colorsCineplex/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLOR HD
-http://198.195.239.50:8095/colors/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLORS.BANGLA.CINEMA
-http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLORS.BANGLA.HD
-http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLORS.CINEPLEX.HD
-http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",COLORS.HD
-http://198.195.239.50:8095/COLORS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DBC.NEWS.HD
 http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
@@ -90,23 +34,12 @@ http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DEEPTOTV.HD
 http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DISCOVERY HD
-http://198.195.239.50:8095/discovery/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DISCOVERY KIDS HD
-http://198.195.239.50:8095/disnepKids/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DISCOVERY.HD
-http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DURANTA
+com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DURANTA
 http://198.195.239.50:8095/duranta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DURANTA.TV.HD
 http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",DW.NEWS.HD
-http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",EAKHON.TV.HD
 http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
@@ -114,53 +47,25 @@ http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",EKATTOR.TV.HD
 http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ENTER 10 BANGLA
-http://198.195.239.50:8095/enter10Bangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ENTER10.BANGLA
-http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ETV.BAL.BHARAT
 http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ETV.BANGLA.HD
 http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",EUROSPORTS.HD
-http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",FAST.SPORTS.HD
-http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",GAZI.TV.HD
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",GEO.NEWS.HD
-http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",HISTORY.TV.18.HD
-http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",HUM.MASALA.TV
-http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",HUNGAMA
-http://198.195.239.50:8095/HUNGAMA/index.m3u8
+ogo/refs/heads/main/tv.png" group-title="Techpro",HUNGAMA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",INDEPENDENT.TV
 http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",JALSHA MOVIES HD
-http://198.195.239.50:8095/jalshaMovies/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",JALSHA.MOVIES.HD
-http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",JAMUNA.TV
 http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",Lotus.TV.HD
-http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MADANI.TV.HD
 http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
@@ -168,65 +73,19 @@ http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MASRANGA.TV.HD
 http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MN.PLUS.HD
-http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MNX.HD
-http://198.195.239.50:8095/MNX.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MOVIES.NOW.HD
-http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",MTV.INDIA
+-logo/refs/heads/main/tv.png" group-title="Techpro",MTV.INDIA
 http://198.195.239.50:8095/MTV.INDIA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NAGORIK.TV.HD
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NATGEO.HD
-http://198.195.239.50:8095/NATGEO.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NATGEO.WILD.HD
-http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NATIONAL GEOGRAPHIC HD
-http://198.195.239.50:8095/nationalGeographic/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NEWS.24
 http://198.195.239.50:8095/NEWS.24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NICK
-http://198.195.239.50:8095/nick/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NICK
-http://198.195.239.50:8095/NICK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NICK JR
-http://198.195.239.50:8095/nickJr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",NICK.JR
-http://198.195.239.50:8095/NICK.JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",PEACE.TV.BANGLA.HD
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",POGO
-http://198.195.239.50:8095/pogo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",POGO
-http://198.195.239.50:8095/POGO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",PTV-SPORTS-HD
-http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ROMEDY.NOW
-http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SANGEET BANGLA
-http://198.195.239.50:8095/sangeetBangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SANGEET.BANGLA
-http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SHOMOY TV HD
 http://198.195.239.50:8095/somoyTv/index.m3u8
@@ -234,157 +93,7 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SOMOY.TV.HD
 http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONIC
-http://198.195.239.50:8095/sonic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONIC
-http://198.195.239.50:8095/SONIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY AATH
-http://198.195.239.50:8095/sonyAath/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY ENTERTAINMENT HD
-http://198.195.239.50:8095/sonyEntertainment/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY MAX HD
-http://198.195.239.50:8095/sonyMax/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY YAY
-http://198.195.239.50:8095/sonyYay/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY-SPORTS.5HD
-http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.AAT
-http://198.195.239.50:8095/SONY.AAT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.BBC.EARTH.HD
-http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.ENT.HD
-http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.MAX.HD
-http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.PIX.HD
-http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.SPORTS.1HD
-http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.SPORTS.3
-http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.SPORTS.4
-http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.SPORTS2.HD
-http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SONY.YAY
-http://198.195.239.50:8095/SONY.YAY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR GOLD HD
-http://198.195.239.50:8095/STARGOLD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR JALSHA HD
-http://198.195.239.50:8095/starJalsha/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR MOVIES HD
-http://198.195.239.50:8095/STAR_PLUS/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR PLUS HD
-http://198.195.239.50:8095/starPlus/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR-SPORTS.3
-http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.BHARAT.HD
-http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.GOLD.HD
-http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.JALSHA.HD
-http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.MOVIES.HD
-http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.MOVIES.SEL.HD
-http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.PLUS.HD
-http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.SPORTS-SEL1.HD
-http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.SPORTS.4K
-http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.SPORTS.SEL.2.HD
-http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.SPORTS1.HD
-http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",STAR.SPORTS2.HD
-http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SUN.BANGLA.HD
-http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",SUPER.HUNGAMA
-http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",T-SPORTS-HD
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",TLC.HD
-http://198.195.239.50:8095/TLC.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",TRAVEL XP
-http://198.195.239.50:8095/travelXp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",TRAVELXP.HD
-http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",UNITE8.1.HD
-http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",UNITE8.2.HD
-http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",XPLOR.HD
-http://198.195.239.50:8095/XPLOR.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE BANGLA HD
-http://198.195.239.50:8095/zeeBangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE CHINEMA HD
-http://103.151.61.12/Zee_Cinema_HD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE TV HD
-http://198.195.239.50:8095/zeeTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE.BANGLA.CINEMA
-http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE.BANGLA.HD
-http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE.CINEMA.HD
-http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZEE.TV.HD
-http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZING.MUSIC
-http://198.195.239.50:8095/ZING.MUSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdrafiul733-create/tv-logo/refs/heads/main/tv.png" group-title="Techpro",ZOOM.MUSIC
-http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
-
 
